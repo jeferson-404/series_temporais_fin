@@ -68,8 +68,3 @@ Os projetos cobrem desde a análise exploratória de fatos estilizados até a mo
 
 ---
 
-## ✉️ Contato
-
-- **Autor:** Seu Nome
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- **E-mail:** seu.email@exemplo.com
