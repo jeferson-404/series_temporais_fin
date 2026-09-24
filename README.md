@@ -1,6 +1,6 @@
 # Portfólio de Econometria & Séries Temporais Financeiras em R
 
-Este repositório reúne um conjunto de projetos e trabalhos práticos (*Homeworks*) focados na análise econométrica, modelagem e previsão de séries temporais de ativos financeiros (mercados brasileiro e norte-americano). 
+Este repositório reúne um conjunto de projetos e trabalhos práticos focados na análise econométrica, modelagem e previsão de séries temporais de ativos financeiros (mercados brasileiro e norte-americano). 
 
 Os projetos cobrem desde a análise exploratória de fatos estilizados até a modelagem avançada de volatilidade e volatilidade condicional através de famílias de modelos ARMA e GARCH.
 
@@ -8,7 +8,7 @@ Os projetos cobrem desde a análise exploratória de fatos estilizados até a mo
 
 ## 📌 Conteúdo do Repositório
 
-### 1. Fatos Estilizados de Séries Temporais Financeiras (`Homework 1`)
+### 1. Fatos Estilizados de Séries Temporais Financeiras (`hw 1`)
 - **Arquivo:** `homework_1_2.Rmd`
 - **Ativos Analisados:** PETR4, VALE3, ITUB4 e WEGE3.
 - **Tópicos Abordados:**
@@ -18,7 +18,7 @@ Os projetos cobrem desde a análise exploratória de fatos estilizados até a mo
 
 ---
 
-### 2. Modelagem Média e Estratégia de Trading com ARMA (`Homework 3`)
+### 2. Modelagem Média e Estratégia de Trading com ARMA (`hw 3`)
 - **Arquivo:** `homework_3_2.Rmd`
 - **Ativos Analisados:** Ibovespa (^BVSP) e ações do S&P 500.
 - **Tópicos Abordados:**
@@ -28,7 +28,7 @@ Os projetos cobrem desde a análise exploratória de fatos estilizados até a mo
 
 ---
 
-### 3. Modelagem de Volatilidade Condicional com GARCH (`Homework 4`)
+### 3. Modelagem de Volatilidade Condicional com GARCH (`hw 4`)
 - **Arquivos:** `homework_4_ex_3_2.R` | `homework_4_ex4_2.R`
 - **Ativos Analisados:** PETR4.SA e Ibovespa (^BVSP).
 - **Tópicos Abordados:**
@@ -53,18 +53,6 @@ Os projetos cobrem desde a análise exploratória de fatos estilizados até a mo
 
 ---
 
-## 🚀 Como Executar os Códigos
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abra o projeto no **RStudio**.
-3. Certifique-se de ter os pacotes necessários instalados executando no console R:
-   ```R
-   install.packages(c("quantmod", "tseries", "forecast", "rugarch", "ggplot2", "tidyverse", "rmarkdown"))
-   ```
-4. Abra e execute os arquivos `.Rmd` ou `.R` individualmente.
 
 ---
 
